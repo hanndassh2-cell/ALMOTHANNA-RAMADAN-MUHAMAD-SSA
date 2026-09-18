@@ -1,9 +1,10 @@
 # EduTech — AI Project Context
 
 > **الغرض:** مرجع شبه ثابت لبنية المشروع وقراراته. اقرأ بعده `AI_RULES.md` ثم `CURRENT_TASK.md` قبل أي تعديل.  
-> **آخر تحقق:** 2026-09-18 — الاختبارات وTypeScript والبناء ناجحة على مساحة العمل الحالية.  
-> **آخر إصدار ملتزم وموثوق:** `d1854798104ce55c60ccd90997e822673db0f5ea` (`Make lesson editor lifecycle transactional`).  
-> **المعاينة المنشورة عند آخر تسليم:** الإصدار 33 على `https://edutech-curriculum-audit-preview.hanndassh2.chatgpt.site` (يحتاج التحقق إن كانت النشرة الحالية ما زالت نفسها).
+> **آخر تحقق:** 2026-09-18 — على نقطة الأساس الجديدة بعد نقل المشروع إلى VS Code.  
+> **آخر إصدار ملتزم وموثوق:** `c3397a8` (`Baseline - EduTech latest before AI agents`)، الفرع `edutech-latest-2026-09-18` يتتبع `origin/edutech-latest-2026-09-18`.  
+> **المعاينة المنشورة عند آخر تسليم:** الإصدار 33 على `https://edutech-curriculum-audit-preview.hanndassh2.chatgpt.site` (يحتاج التحقق إن كانت النشرة الحالية ما زالت نفسها بعد هذا الـ baseline).
+> **ملاحظة:** سجل الالتزامات المفصل في القسم 4 أدناه يعود لمرحلة سابقة على هذا الـ baseline؛ يحتاج تحققًا من `git log` الفعلي قبل الاعتماد عليه كسجل دقيق للحاضر.
 
 ## 1. الهدف العام
 
